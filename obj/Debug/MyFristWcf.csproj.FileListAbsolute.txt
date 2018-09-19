@@ -1,0 +1,6 @@
+D:\C#\cWorkSpace\MyFristWcf\MyFristWcf\bin\Debug\MyFristWcf.exe.config
+D:\C#\cWorkSpace\MyFristWcf\MyFristWcf\obj\Debug\MyFristWcf.csprojResolveAssemblyReference.cache
+D:\C#\cWorkSpace\MyFristWcf\MyFristWcf\bin\Debug\MyFristWcf.exe
+D:\C#\cWorkSpace\MyFristWcf\MyFristWcf\bin\Debug\MyFristWcf.pdb
+D:\C#\cWorkSpace\MyFristWcf\MyFristWcf\obj\Debug\MyFristWcf.exe
+D:\C#\cWorkSpace\MyFristWcf\MyFristWcf\obj\Debug\MyFristWcf.pdb
